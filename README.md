@@ -7,7 +7,7 @@ Aspiring AI/ML Engineer | Coder | Problem Solver
 **Databases:** MySQL, MongoDB  
 **Machine Learning:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
 **Tools:** Git, GitHub, VS Code  
-**Problem Solving:** 200+ challenges solved on LeetCode 💡
+**Problem Solving:** 350+ challenges solved on LeetCode 💡
 
 ## 📂 Projects & Contributions  
 🔹 Currently working on hands-on projects using ML and Python  
@@ -16,8 +16,7 @@ Aspiring AI/ML Engineer | Coder | Problem Solver
 
 ## 📊 GitHub Activity  
 - ⭐ Total Stars: 0  
-- 📁 Public Repositories: 4  
-- 🕒 Recent Commits: 9  
+- 📁 Public Repositories: 10
 
 ## 🎯 Career Goals  
 Enthusiastic about applying AI/ML to innovative solutions.  
