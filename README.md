@@ -132,17 +132,10 @@ My interests span LLMs, Retrieval-Augmented Generation (RAG), Machine Learning, 
 
 # 📈 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=revanthajoe&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthajoe&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=revanthajoe&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=revanthajoe&theme=tokyonight&hide_border=true"/>
 
 </p>
 
