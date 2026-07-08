@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,12,20,24,30&text=Revanth Ajoe A&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20ML%20Engineer%20•%20Full Stack%20Engineer&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=250&section=header&text=Revanth%20Ajoe%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20ML%20Engineer%20•%20Full%20Stack%20Engineer&descAlignY=60"/>
 </p>
 
 <h3 align="center">
@@ -27,8 +27,9 @@ Building AI-powered applications that solve real-world problems.
 🎓 **B.E. Computer Science & Engineering (AI & ML)**  
 📍 Chennai Institute of Technology
 
-I'm passionate about building intelligent software that combines AI, backend engineering, and cloud technologies to solve real-world problems.
+I'm an AI & ML undergraduate passionate about building production-ready AI applications, scalable backend systems, and full-stack products that solve real-world problems.
 
+My interests span LLMs, Retrieval-Augmented Generation (RAG), Machine Learning, Backend Engineering, and Cloud Computing.
 ### Areas of Interest
 
 - 🤖 Artificial Intelligence
@@ -52,16 +53,18 @@ I'm passionate about building intelligent software that combines AI, backend eng
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch"/>
-<img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/LangChain-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Whisper-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/FAISS-0096D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_Whisper-000000?style=for-the-badge&logo=openai"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -131,35 +134,15 @@ I'm passionate about building intelligent software that combines AI, backend eng
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=revanthajoe&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=revanthajoe&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthajoe&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthajoe&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=revanthajoe&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/revanthajoe">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:revanthajoe@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/revanthajoe">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
+<img src="https://streak-stats.demolab.com?user=revanthajoe&theme=radical&hide_border=true"/>
 
 </p>
 
